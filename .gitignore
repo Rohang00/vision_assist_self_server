@@ -1,0 +1,10 @@
+__pycache__/*
+.vscode/*
+*.pyc
+db.sqlite3
+/staticfiles/*
+/mediafiles/*
+venv/*
+.env
+*.json
+fakertest/*
